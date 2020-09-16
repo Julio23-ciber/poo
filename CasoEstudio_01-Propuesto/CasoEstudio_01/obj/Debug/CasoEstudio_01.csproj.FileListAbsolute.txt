@@ -1,0 +1,10 @@
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\bin\Debug\CasoEstudio_01.exe.config
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\bin\Debug\CasoEstudio_01.exe
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\bin\Debug\CasoEstudio_01.pdb
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.csprojAssemblyReference.cache
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.Form1.resources
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.Properties.Resources.resources
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.csproj.GenerateResource.cache
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.exe
+C:\Users\julio\Desktop\CasoEstudio_01-master\CasoEstudio_01\obj\Debug\CasoEstudio_01.pdb
