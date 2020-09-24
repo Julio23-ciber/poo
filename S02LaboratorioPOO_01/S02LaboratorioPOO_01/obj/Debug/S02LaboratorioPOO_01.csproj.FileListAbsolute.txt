@@ -1,0 +1,33 @@
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe.config
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.pdb
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csprojAssemblyReference.cache
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form1.resources
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form2.resources
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Properties.Resources.resources
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.GenerateResource.cache
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.CoreCompileInputs.cache
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.exe
+G:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.pdb
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe.config
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.pdb
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csprojAssemblyReference.cache
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form1.resources
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form2.resources
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Properties.Resources.resources
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.GenerateResource.cache
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.CoreCompileInputs.cache
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.exe
+F:\CIBERTEC\3erCICLO\202002\PROGRAMACION ORIENTADA A OBJETOS I\SECCIÓN T3DM 01\LABORATORIO_SEMANA02\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.pdb
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csprojAssemblyReference.cache
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form1.resources
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Form2.resources
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.Properties.Resources.resources
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.GenerateResource.cache
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.exe
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\obj\Debug\S02LaboratorioPOO_01.pdb
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe.config
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.exe
+C:\Users\julio\Desktop\S02LaboratorioPOO_Plantilla\S02LaboratorioPOO_01\S02LaboratorioPOO_01\bin\Debug\S02LaboratorioPOO_01.pdb
